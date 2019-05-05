@@ -1,2 +1,2 @@
 # Gang of Four Design Patterns
-Padrão de Projetos da "Gang of four" em C#
+Padrão de Projetos beseados na "Gang of four" em C#
