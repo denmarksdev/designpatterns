@@ -1,0 +1,17 @@
+D:\Repositorio\patterns\ConsoleApp\Pattern.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Repositorio\patterns\ConsoleApp\Pattern.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Repositorio\patterns\ConsoleApp\Pattern.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Repositorio\patterns\ConsoleApp\Pattern.Test\bin\Debug\netcoreapp2.1\Pattern.Test.deps.json
+D:\Repositorio\patterns\ConsoleApp\Pattern.Test\bin\Debug\netcoreapp2.1\Pattern.Test.runtimeconfig.json
+D:\Repositorio\patterns\ConsoleApp\Pattern.Test\bin\Debug\netcoreapp2.1\Pattern.Test.runtimeconfig.dev.json
+D:\Repositorio\patterns\ConsoleApp\Pattern.Test\bin\Debug\netcoreapp2.1\Pattern.Test.dll
+D:\Repositorio\patterns\ConsoleApp\Pattern.Test\bin\Debug\netcoreapp2.1\Pattern.Test.pdb
+D:\Repositorio\patterns\ConsoleApp\Pattern.Test\obj\Debug\netcoreapp2.1\Pattern.Test.csprojAssemblyReference.cache
+D:\Repositorio\patterns\ConsoleApp\Pattern.Test\obj\Debug\netcoreapp2.1\Pattern.Test.csproj.CoreCompileInputs.cache
+D:\Repositorio\patterns\ConsoleApp\Pattern.Test\obj\Debug\netcoreapp2.1\Pattern.Test.AssemblyInfoInputs.cache
+D:\Repositorio\patterns\ConsoleApp\Pattern.Test\obj\Debug\netcoreapp2.1\Pattern.Test.AssemblyInfo.cs
+D:\Repositorio\patterns\ConsoleApp\Pattern.Test\obj\Debug\netcoreapp2.1\Pattern.Test.dll
+D:\Repositorio\patterns\ConsoleApp\Pattern.Test\obj\Debug\netcoreapp2.1\Pattern.Test.pdb
+D:\Repositorio\patterns\ConsoleApp\Pattern.Test\bin\Debug\netcoreapp2.1\Pattern.Domain.dll
+D:\Repositorio\patterns\ConsoleApp\Pattern.Test\bin\Debug\netcoreapp2.1\Pattern.Domain.pdb
+D:\Repositorio\patterns\ConsoleApp\Pattern.Test\obj\Debug\netcoreapp2.1\Pattern.Test.csproj.CopyComplete

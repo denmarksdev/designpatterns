@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.Interfaces\\Pattern.Interfaces.csproj": {}
+  },
+  "projects": {
+    "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.Domain\\Pattern.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.Domain\\Pattern.Domain.csproj",
+        "projectName": "Pattern.Domain",
+        "projectPath": "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.Domain\\Pattern.Domain.csproj",
+        "packagesPath": "C:\\Users\\denwo\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denwo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.Interfaces\\Pattern.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.Interfaces\\Pattern.Interfaces.csproj",
+        "projectName": "Pattern.Interfaces",
+        "projectPath": "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.Interfaces\\Pattern.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\denwo\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denwo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.Domain\\Pattern.Domain.csproj": {
+                "projectPath": "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.Domain\\Pattern.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.ConsoleApp\\Pattern.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.ConsoleApp\\Pattern.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.ConsoleApp\\Pattern.ConsoleApp.csproj",
+        "projectName": "Pattern.ConsoleApp",
+        "projectPath": "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.ConsoleApp\\Pattern.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\denwo\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denwo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.Infrastructure\\Pattern.Infrastructure.csproj": {
+                "projectPath": "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.Infrastructure\\Pattern.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.Domain\\Pattern.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.Domain\\Pattern.Domain.csproj",
+        "projectName": "Pattern.Domain",
+        "projectPath": "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.Domain\\Pattern.Domain.csproj",
+        "packagesPath": "C:\\Users\\denwo\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denwo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.Infrastructure\\Pattern.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.Infrastructure\\Pattern.Infrastructure.csproj",
+        "projectName": "Pattern.Infrastructure",
+        "projectPath": "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.Infrastructure\\Pattern.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\denwo\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denwo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.Domain\\Pattern.Domain.csproj": {
+                "projectPath": "D:\\Repositorio\\patterns\\ConsoleApp\\Pattern.Domain\\Pattern.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

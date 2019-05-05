@@ -1,0 +1,16 @@
+D:\Repositorio\patterns\ConsoleApp\Pattern.ConsoleApp\bin\Debug\netcoreapp2.2\Pattern.ConsoleApp.deps.json
+D:\Repositorio\patterns\ConsoleApp\Pattern.ConsoleApp\bin\Debug\netcoreapp2.2\Pattern.ConsoleApp.runtimeconfig.json
+D:\Repositorio\patterns\ConsoleApp\Pattern.ConsoleApp\bin\Debug\netcoreapp2.2\Pattern.ConsoleApp.runtimeconfig.dev.json
+D:\Repositorio\patterns\ConsoleApp\Pattern.ConsoleApp\bin\Debug\netcoreapp2.2\Pattern.ConsoleApp.dll
+D:\Repositorio\patterns\ConsoleApp\Pattern.ConsoleApp\bin\Debug\netcoreapp2.2\Pattern.ConsoleApp.pdb
+D:\Repositorio\patterns\ConsoleApp\Pattern.ConsoleApp\bin\Debug\netcoreapp2.2\Pattern.Domain.dll
+D:\Repositorio\patterns\ConsoleApp\Pattern.ConsoleApp\bin\Debug\netcoreapp2.2\Pattern.Infrastructure.dll
+D:\Repositorio\patterns\ConsoleApp\Pattern.ConsoleApp\bin\Debug\netcoreapp2.2\Pattern.Infrastructure.pdb
+D:\Repositorio\patterns\ConsoleApp\Pattern.ConsoleApp\bin\Debug\netcoreapp2.2\Pattern.Domain.pdb
+D:\Repositorio\patterns\ConsoleApp\Pattern.ConsoleApp\obj\Debug\netcoreapp2.2\Pattern.ConsoleApp.csprojAssemblyReference.cache
+D:\Repositorio\patterns\ConsoleApp\Pattern.ConsoleApp\obj\Debug\netcoreapp2.2\Pattern.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Repositorio\patterns\ConsoleApp\Pattern.ConsoleApp\obj\Debug\netcoreapp2.2\Pattern.ConsoleApp.AssemblyInfoInputs.cache
+D:\Repositorio\patterns\ConsoleApp\Pattern.ConsoleApp\obj\Debug\netcoreapp2.2\Pattern.ConsoleApp.AssemblyInfo.cs
+D:\Repositorio\patterns\ConsoleApp\Pattern.ConsoleApp\obj\Debug\netcoreapp2.2\Pattern.ConsoleApp.csproj.CopyComplete
+D:\Repositorio\patterns\ConsoleApp\Pattern.ConsoleApp\obj\Debug\netcoreapp2.2\Pattern.ConsoleApp.dll
+D:\Repositorio\patterns\ConsoleApp\Pattern.ConsoleApp\obj\Debug\netcoreapp2.2\Pattern.ConsoleApp.pdb

@@ -1,0 +1,15 @@
+﻿D:\Repositorio\patterns\ConsoleApp\Pattern.Infrastructure\Bases\<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pattern.Domain\Pattern.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Bases\" />
+  </ItemGroup>
+
+</Project>

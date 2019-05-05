@@ -1,0 +1,9 @@
+D:\Repositorio\patterns\ConsoleApp\Pattern.Domain\bin\Debug\netstandard2.0\Pattern.Domain.deps.json
+D:\Repositorio\patterns\ConsoleApp\Pattern.Domain\bin\Debug\netstandard2.0\Pattern.Domain.dll
+D:\Repositorio\patterns\ConsoleApp\Pattern.Domain\bin\Debug\netstandard2.0\Pattern.Domain.pdb
+D:\Repositorio\patterns\ConsoleApp\Pattern.Domain\obj\Debug\netstandard2.0\Pattern.Domain.csprojAssemblyReference.cache
+D:\Repositorio\patterns\ConsoleApp\Pattern.Domain\obj\Debug\netstandard2.0\Pattern.Domain.csproj.CoreCompileInputs.cache
+D:\Repositorio\patterns\ConsoleApp\Pattern.Domain\obj\Debug\netstandard2.0\Pattern.Domain.AssemblyInfoInputs.cache
+D:\Repositorio\patterns\ConsoleApp\Pattern.Domain\obj\Debug\netstandard2.0\Pattern.Domain.AssemblyInfo.cs
+D:\Repositorio\patterns\ConsoleApp\Pattern.Domain\obj\Debug\netstandard2.0\Pattern.Domain.dll
+D:\Repositorio\patterns\ConsoleApp\Pattern.Domain\obj\Debug\netstandard2.0\Pattern.Domain.pdb

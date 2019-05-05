@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Pattern.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Pattern.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "Pattern.ConsoleApp.dll": {}
+        }
+      },
+      "Pattern.Domain/1.0.0": {
+        "runtime": {
+          "Pattern.Domain.dll": {}
+        }
+      },
+      "Pattern.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Pattern.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Pattern.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pattern.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pattern.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pattern.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

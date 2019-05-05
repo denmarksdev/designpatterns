@@ -1,0 +1,12 @@
+D:\Repositorio\patterns\ConsoleApp\Pattern.Infrastructure\bin\Debug\netstandard2.0\Pattern.Infrastructure.deps.json
+D:\Repositorio\patterns\ConsoleApp\Pattern.Infrastructure\bin\Debug\netstandard2.0\Pattern.Infrastructure.dll
+D:\Repositorio\patterns\ConsoleApp\Pattern.Infrastructure\bin\Debug\netstandard2.0\Pattern.Infrastructure.pdb
+D:\Repositorio\patterns\ConsoleApp\Pattern.Infrastructure\bin\Debug\netstandard2.0\Pattern.Domain.dll
+D:\Repositorio\patterns\ConsoleApp\Pattern.Infrastructure\bin\Debug\netstandard2.0\Pattern.Domain.pdb
+D:\Repositorio\patterns\ConsoleApp\Pattern.Infrastructure\obj\Debug\netstandard2.0\Pattern.Infrastructure.csprojAssemblyReference.cache
+D:\Repositorio\patterns\ConsoleApp\Pattern.Infrastructure\obj\Debug\netstandard2.0\Pattern.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Repositorio\patterns\ConsoleApp\Pattern.Infrastructure\obj\Debug\netstandard2.0\Pattern.Infrastructure.AssemblyInfoInputs.cache
+D:\Repositorio\patterns\ConsoleApp\Pattern.Infrastructure\obj\Debug\netstandard2.0\Pattern.Infrastructure.AssemblyInfo.cs
+D:\Repositorio\patterns\ConsoleApp\Pattern.Infrastructure\obj\Debug\netstandard2.0\Pattern.Infrastructure.csproj.CopyComplete
+D:\Repositorio\patterns\ConsoleApp\Pattern.Infrastructure\obj\Debug\netstandard2.0\Pattern.Infrastructure.dll
+D:\Repositorio\patterns\ConsoleApp\Pattern.Infrastructure\obj\Debug\netstandard2.0\Pattern.Infrastructure.pdb
