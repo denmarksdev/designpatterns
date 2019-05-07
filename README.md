@@ -1,5 +1,4 @@
-# Padrões de projeto 'Gang of Four' e outros
-Padrão de Projetos beseados na "Gang of four" em C#
+# Padrões de projeto 'Gang of Four' e outros em C#
 
 ## Padrões de Projeto
 
