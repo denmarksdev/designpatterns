@@ -7,17 +7,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Presentation", "03 - P
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Domain", "01 - Domain", "{0CAB07F6-26EB-4302-BF95-40010E5801D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern.ConsoleApp", "Pattern.ConsoleApp\Pattern.ConsoleApp.csproj", "{962BD4F6-8E15-4144-BCAF-24BBF6B588A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pattern.ConsoleApp", "Pattern.ConsoleApp\Pattern.ConsoleApp.csproj", "{962BD4F6-8E15-4144-BCAF-24BBF6B588A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern.Domain", "Pattern.Domain\Pattern.Domain.csproj", "{B730B7B1-45B3-4F69-995C-72D53D46CAC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pattern.Domain", "Pattern.Domain\Pattern.Domain.csproj", "{B730B7B1-45B3-4F69-995C-72D53D46CAC3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Insfrastructure", "02 - Insfrastructure", "{8351ED30-6326-4552-B46D-C56D33701F2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern.Infrastructure", "Pattern.Infrastructure\Pattern.Infrastructure.csproj", "{2B4B47DE-BB4B-4A9C-B182-84C64BC307B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pattern.Infrastructure", "Pattern.Infrastructure\Pattern.Infrastructure.csproj", "{2B4B47DE-BB4B-4A9C-B182-84C64BC307B2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - Testes", "04 - Testes", "{B6AD5127-E99E-4A5C-9276-3F66851D61E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern.Test", "Pattern.Test\Pattern.Test.csproj", "{663F97AD-FA66-45F5-B71B-20FC330BE39A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pattern.Test", "Pattern.Test\Pattern.Test.csproj", "{663F97AD-FA66-45F5-B71B-20FC330BE39A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05- MVC", "05- MVC", "{D0C65201-B9D4-44C8-9CC5-4EDD8F5A4963}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentDB", "StudentDB\StudentDB.csproj", "{7D02EBF2-CF79-4E8B-9CD0-3D2A541B7177}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +45,10 @@ Global
 		{663F97AD-FA66-45F5-B71B-20FC330BE39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{663F97AD-FA66-45F5-B71B-20FC330BE39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{663F97AD-FA66-45F5-B71B-20FC330BE39A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D02EBF2-CF79-4E8B-9CD0-3D2A541B7177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D02EBF2-CF79-4E8B-9CD0-3D2A541B7177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D02EBF2-CF79-4E8B-9CD0-3D2A541B7177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D02EBF2-CF79-4E8B-9CD0-3D2A541B7177}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,6 +58,7 @@ Global
 		{B730B7B1-45B3-4F69-995C-72D53D46CAC3} = {0CAB07F6-26EB-4302-BF95-40010E5801D5}
 		{2B4B47DE-BB4B-4A9C-B182-84C64BC307B2} = {8351ED30-6326-4552-B46D-C56D33701F2E}
 		{663F97AD-FA66-45F5-B71B-20FC330BE39A} = {B6AD5127-E99E-4A5C-9276-3F66851D61E7}
+		{7D02EBF2-CF79-4E8B-9CD0-3D2A541B7177} = {D0C65201-B9D4-44C8-9CC5-4EDD8F5A4963}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {60E9AF4B-D025-4BD0-A37F-EDB6DF2E52C5}
