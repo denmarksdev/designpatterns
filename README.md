@@ -1,5 +1,11 @@
 # Padrões de projeto 'Gang of Four' e outros em C#
 
+## Integrants do Ganf of four
+- Erich Gamma
+- Richard Helm
+- Ralph Johnson
+- John Vlissides
+
 # É necessário ...
 - [.NET Core 2.2](https://dotnet.microsoft.com/download/dotnet-core/2.2)
 - [Visual studio 2017 ou 2019](https://visualstudio.microsoft.com/pt-br/) (Sugestão)
