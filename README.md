@@ -38,11 +38,11 @@ Mudar um objeto causa a mudança ou ação em outro objeto atravéz da notifica�
 
 ## Outros
 
-## Repository 
+### Repository 
 
 O uso do repositório permite aos desenvolvedores criarem uma camada de abstração entre a aplicação e camada de dados.
 
-## Unity Of Work
+### Unity Of Work
 
 A unidade de trabalho observa todas as ações durante uma transação de negócios, que pode afetar a base de dados.
 Após concluída as alterações, a base de dados é resultado do seu trabalho.
