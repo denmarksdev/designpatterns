@@ -23,8 +23,8 @@ Define uma interface para a criação de um objeto, mas a sub classe decide qual
 Prove uma interface para criar uma família de objetos relacionados ou dependentes sem especificar sua classe concreta.
 
 ### Builder
-	Permit separar e reutilizar um processo específico para construir algo. 
-	Geralmente utilizado para contruir objetos complexos.
+
+Permit separar e reutilizar um processo específico para construir algo. Geralmente utilizado para contruir objetos complexos.
 
 ### Singleton Pattern
 
@@ -37,10 +37,12 @@ Tenha certeza que a classe terá apenas uma instância, e prover um ponto de ace
 Utiliza composição para limitar a herança e simplifica  o relacionamento entre os objetos, facilitando o seu gerenciamento.
 
 ### Adpter
-	Fazer com que interfaces incompatíveis trabalhem em conjuto.
+
+Fazer com que interfaces incompatíveis trabalhem em conjuto.
     
 ### Composite
-	Tratar um grupo de objetos em outro objeto como o mesmo, mesmo sendo diferentes.
+
+Tratar um grupo de objetos em outro objeto como o mesmo, mesmo sendo diferentes.
     
 ## Comportamental
 
@@ -53,20 +55,24 @@ Prove um modo de acessar e iterar uma coleção de objetos de um mesmo modo, ind
 Mudar um objeto causa a mudança ou ação em outro objeto atravéz da notificação.
 
 ### Chain of Reponsibility
-	Passando a responsabilidade de uma tarefa de um objeto para o outro, assim por diante, até que um objeto aceite e complete a tarefa.
+
+Passando a responsabilidade de uma tarefa de um objeto para o outro, assim por diante, até que um objeto aceite e complete a tarefa.
     
 ### Command
-	Utilizar um objeto para armazenar uma informação requerida, para iniciar uma ação a qualquer momento.
+
+Utilizar um objeto para armazenar uma informação requerida, para iniciar uma ação a qualquer momento.
     
 ### Interpreter 
-	Um Tradutor
+
+Um Tradutor
     
 ### Mediator
-	Permite controlar a comunicação entre cada objeto.
+
+Permite controlar a comunicação entre cada objeto.
     
  ### Visitor
-	Permite adicionar e executar uma nova funcionalidade em um objeto, sem mudar a sua estrutura, o que poderia causar problemas.
-	
+
+Permite adicionar e executar uma nova funcionalidade em um objeto, sem mudar a sua estrutura, o que poderia causar problemas.
 
 ## Outros
 
@@ -82,4 +88,4 @@ Após concluída as alterações, a base de dados é resultado do seu trabalho.
 # Referências
 
 [Reynald Adolphe - **Design Patterns: Part 1**](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1/next-steps)
-
+[Reynald Adolphe - **Design Patterns: Part 2**](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2/welcome)
