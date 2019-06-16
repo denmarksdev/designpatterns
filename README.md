@@ -36,7 +36,7 @@ Tenha certeza que a classe terá apenas uma instância, e prover um ponto de ace
 
 Utiliza composição para limitar a herança e simplifica  o relacionamento entre os objetos, facilitando o seu gerenciamento.
 
-### Adpter
+### Adapter
 
 Fazer com que interfaces incompatíveis trabalhem em conjuto.
     
