@@ -1,6 +1,6 @@
 # Padrões de projeto 'Gang of Four' e outros em C#
 
-## Integrantes do Ganf of four
+## Integrantes do Gang of four
 - Erich Gamma
 - Richard Helm
 - Ralph Johnson
