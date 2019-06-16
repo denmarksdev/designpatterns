@@ -88,4 +88,5 @@ Após concluída as alterações, a base de dados é resultado do seu trabalho.
 # Referências
 
 [Reynald Adolphe - **Design Patterns: Part 1**](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1/next-steps)
+
 [Reynald Adolphe - **Design Patterns: Part 2**](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2/welcome)
