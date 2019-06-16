@@ -30,7 +30,7 @@ Permit separar e reutilizar um processo específico para construir algo. Geralme
 
 Tenha certeza que a classe terá apenas uma instância, e prover um ponto de acesso global a ela.
 
-## Estrutual
+## Estrutural
 
 ### Decorator Pattern
 
