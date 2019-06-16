@@ -41,15 +41,20 @@ namespace Pattern.ConsoleApp
             //InterpreterExemplo();
             //MediatorExemplo();
 
+            VisitorExemplo();
+
+            Console.ReadKey();
+        }
+
+        private static void VisitorExemplo()
+        {
             Empregados empregados = new Empregados();
             empregados.Anexar(new AmandaEmp());
             empregados.Anexar(new DiretorEmp());
             empregados.Anexar(new PresidenteEmp());
-            
+
             empregados.Aceitar(new VisitanteEntrada());
             empregados.Aceitar(new VisitanteFerias());
-
-            Console.ReadKey();
         }
 
         private static void MediatorExemplo()
