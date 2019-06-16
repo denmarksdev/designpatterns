@@ -2,6 +2,6 @@
 {
     public interface IFan
     {
-        void Atualiza(ICelebridade celebridade);
+        void Atualiza(ICelebridade celebrity);
     }
 }
