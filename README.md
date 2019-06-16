@@ -22,6 +22,10 @@ Define uma interface para a criação de um objeto, mas a sub classe decide qual
 
 Prove uma interface para criar uma família de objetos relacionados ou dependentes sem especificar sua classe concreta.
 
+### Builder
+	Permit separar e reutilizar um processo específico para construir algo. 
+	Geralmente utilizado para contruir objetos complexos.
+
 ### Singleton Pattern
 
 Tenha certeza que a classe terá apenas uma instância, e prover um ponto de acesso global a ela.
@@ -32,15 +36,37 @@ Tenha certeza que a classe terá apenas uma instância, e prover um ponto de ace
 
 Utiliza composição para limitar a herança e simplifica  o relacionamento entre os objetos, facilitando o seu gerenciamento.
 
+### Adpter
+	Fazer com que interfaces incompatíveis trabalhem em conjuto.
+    
+### Composite
+	Tratar um grupo de objetos em outro objeto como o mesmo, mesmo sendo diferentes.
+    
 ## Comportamental
 
 ### Iterator Pattern
 
-Prove um modo de acessar e iterar uma coleção de objetos de um mesmo modo, indenpendetement do tipo.
+Prove um modo de acessar e iterar uma coleção de objetos de um mesmo modo, independente do tipo.
 
 ### Observer
 
 Mudar um objeto causa a mudança ou ação em outro objeto atravéz da notificação.
+
+### Chain of Reponsibility
+	Passando a responsabilidade de uma tarefa de um objeto para o outro, assim por diante, até que um objeto aceite e complete a tarefa.
+    
+### Command
+	Utilizar um objeto para armazenar uma informação requerida, para iniciar uma ação a qualquer momento.
+    
+### Interpreter 
+	Um Tradutor
+    
+### Mediator
+	Permite controlar a comunicação entre cada objeto.
+    
+ ### Visitor
+	Permite adicionar e executar uma nova funcionalidade em um objeto, sem mudar a sua estrutura, o que poderia causar problemas.
+	
 
 ## Outros
 
